@@ -49,6 +49,8 @@ article.featured{
     align-items: center;
     border-bottom: 2px solid rgb(179, 179, 179);
     padding-bottom: 40px;
-    
+}
 
+article p , article h3{
+    margin: 20px 30px;
 }
